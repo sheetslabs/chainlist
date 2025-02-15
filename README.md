@@ -4,7 +4,8 @@
 
 ### [GOOG Devnet](./goog-dev.html)
 
-- **Network Name**: GOOG Devnet
+- **Homepage**: https://sheetslabs.github.io/chainlist/goog-dev.html
+- **Network Name**: GOOGLE Devnet
 - **RPC URL**: https://goog-rpc.sheets-labs.workers.dev
 - **Chain ID**: 980904
 - **Symbol**: GOOG
